@@ -120,7 +120,9 @@ Using a Packer image with Terraform
 Summary
 Questions
 Further reading
-Section 2: DevOps CI/CD Pipeline
+
+## Section 2: DevOps CI/CD Pipeline
+
 Managing Your Source Code with Git
 Technical requirements
 Overviewing Git and its command lines
@@ -177,7 +179,9 @@ Accessing the CI pipeline execution details
 Summary
 Questions
 Further reading
-Section 3: Containerized Applications with Docker and Kubernetes
+
+## Section 3: Containerized Applications with Docker and Kubernetes
+
 Containerizing Your Application with Docker
 Technical requirements
 Installing Docker
@@ -216,7 +220,9 @@ Automatic deployment of the application in Kubernetes
 Summary
 Questions
 Further reading
-Section 4: Testing Your Application
+
+## Section 4: Testing Your Application
+
 Testing APIs with Postman
 Technical requirements
 Creating a Postman collection with requests
@@ -265,7 +271,9 @@ Running performance tests with Postman
 Summary
 Questions
 Further reading
-Section 5: Taking DevOps Further
+
+## Section 5: Taking DevOps Further
+
 Security in the DevOps Process with DevSecOps
 Technical requirements
 Testing Azure infrastructure compliance with Chef&#xA0;InSpec
