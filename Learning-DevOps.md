@@ -36,38 +36,38 @@
   - [ ] Questions
   - [ ] Further reading
 - [ ] Provisioning Cloud Infrastructure with Terraform
-Technical requirements
-Installing Terraform
-Manual installation
-Installation by script
-Installing Terraform by script on&#xA0;Linux
-Installing Terraform by script on Windows
-Installing Terraform by script on macOS
-Integrating Terraform with Azure Cloud Shell
-Configuring Terraform for Azure
-Creating the Azure SP
-Configuring the Terraform provider
-Terraform configuration for local development and testing
-Writing a Terraform script to deploy Azure infrastructure
-Following some Terraform good practices
-Better visibility with the separation of files
-Protection of sensitive data
-Dynamizing the code with variables and interpolation functions
-Deploying the infrastructure with Terraform
-Initialization
-Previewing changes
-Applying the changes
-Terraform command lines and life cycle
-Using destroy to better rebuild
-Formatting and validating the code
-Formatting the code
-Validating the code
-Terraform's life cycle in a CI/CD process
-Protecting tfstate in a remote backend
-Summary
-Questions
-Further reading
-Using Ansible for Configuring IaaS Infrastructure
+  - [ ] Technical requirements
+  - [ ] Installing Terraform
+  - [ ] Manual installation
+  - [ ] Installation by script
+  - [ ] Installing Terraform by script on&#xA0;Linux
+  - [ ] Installing Terraform by script on Windows
+  - [ ] Installing Terraform by script on macOS
+  - [ ] Integrating Terraform with Azure Cloud Shell
+  - [ ] Configuring Terraform for Azure
+  - [ ] Creating the Azure SP
+  - [ ] Configuring the Terraform provider
+  - [ ] Terraform configuration for local development and testing
+  - [ ] Writing a Terraform script to deploy Azure infrastructure
+  - [ ] Following some Terraform good practices
+  - [ ] Better visibility with the separation of files
+  - [ ] Protection of sensitive data
+  - [ ] Dynamizing the code with variables and interpolation functions
+  - [ ] Deploying the infrastructure with Terraform
+  - [ ] Initialization
+  - [ ] Previewing changes
+  - [ ] Applying the changes
+  - [ ] Terraform command lines and life cycle
+  - [ ] Using destroy to better rebuild
+  - [ ] Formatting and validating the code
+  - [ ] Formatting the code
+  - [ ] Validating the code
+  - [ ] Terraform's life cycle in a CI/CD process
+  - [ ] Protecting tfstate in a remote backend
+  - [ ] Summary
+  - [ ] Questions
+  - [ ] Further reading
+- [ ] Using Ansible for Configuring IaaS Infrastructure
 Technical requirements
 Installing Ansible
 Installing Ansible with a script
