@@ -1,16 +1,19 @@
 # Learning DevOps
+
+## Beginning Info
+
 - Table of Contents
-Preface
-Who this book is for
-What this book covers
-To get the most out of this book
-Download the example code files
-Download the color images
-Code in Action
-Conventions used
-Get in touch
-Reviews
-Section 1: DevOps and Infrastructure as Code
+- Preface
+- Who this book is for
+- What this book covers
+- To get the most out of this book
+- Download the example code files
+- Download the color images
+- Code in Action
+- Conventions used
+- Get in touch
+- Reviews
+## Section 1: DevOps and Infrastructure as Code
 DevOps Culture and Practices
 Getting started with DevOps
 Implementing CI/CD and continuous deployment
