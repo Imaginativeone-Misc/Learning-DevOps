@@ -14,28 +14,28 @@
 - Get in touch
 - Reviews
 ## Section 1: DevOps and Infrastructure as Code
-- [ ] DevOps Culture and Practices
-- [ ] Getting started with DevOps
-Implementing CI/CD and continuous deployment
-Continuous integration (CI)
-Implementing CI
-Continuous delivery (CD)
-Continuous deployment
-Understanding IaC practices
-The benefits of IaC
-IaC languages and tools
-Scripting types
-Declarative types
-The IaC&#xA0;topology
-The deployment and provisioning of the infrastructure
-Server configuration
-Immutable infrastructure with containers
-Configuration and deployment in Kubernetes
-IaC best practices
-Summary
-Questions
-Further reading
-Provisioning Cloud Infrastructure with Terraform
+- [ ] Chapter 01: DevOps Culture and Practices
+  - [ ] Getting started with DevOps
+  - [ ] Implementing CI/CD and continuous deployment
+  - [ ] Continuous integration (CI)
+  - [ ] Implementing CI
+  - [ ] Continuous delivery (CD)
+  - [ ] Continuous deployment
+  - [ ] Understanding IaC practices
+  - [ ] The benefits of IaC
+  - [ ] IaC languages and tools
+  - [ ] Scripting types
+  - [ ] Declarative types
+  - [ ] The IaC&#xA0;topology
+  - [ ] The deployment and provisioning of the infrastructure
+  - [ ] Server configuration
+  - [ ] Immutable infrastructure with containers
+  - [ ] Configuration and deployment in Kubernetes
+  - [ ] IaC best practices
+  - [ ] Summary
+  - [ ] Questions
+  - [ ] Further reading
+- [ ] Provisioning Cloud Infrastructure with Terraform
 Technical requirements
 Installing Terraform
 Manual installation
