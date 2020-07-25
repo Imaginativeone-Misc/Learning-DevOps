@@ -1,4 +1,5 @@
-Table of Contents
+# Learning DevOps
+- Table of Contents
 Preface
 Who this book is for
 What this book covers
