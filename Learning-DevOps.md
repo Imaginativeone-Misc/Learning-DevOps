@@ -14,8 +14,8 @@
 - Get in touch
 - Reviews
 ## Section 1: DevOps and Infrastructure as Code
-DevOps Culture and Practices
-Getting started with DevOps
+- [ ] DevOps Culture and Practices
+- [ ] Getting started with DevOps
 Implementing CI/CD and continuous deployment
 Continuous integration (CI)
 Implementing CI
